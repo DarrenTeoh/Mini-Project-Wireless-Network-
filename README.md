@@ -6,7 +6,7 @@
 4- Create a new JavaScript for server and client by using Sublime Text software.
 5- Run Git Bash for test the server and client.
 6- After it, run the Intel Edison driver software and test it on web browser.
-7- When the software execute, be sure to connect the Intel Edison to get the data and it will show all the data on the web browser.
+7- When the software executed, be sure to connect the Intel Edison to get the data and it will show all the data on the web browser.
 
 
 For Git Bash download link.
