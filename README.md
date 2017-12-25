@@ -15,9 +15,6 @@
 7- When the software executed, be sure to connect the Intel Edison to get the data and it will show all the data on the web browser.
 
 
-
-
-
 For Git Bash download link.
 https://git-scm.com/downloads
 
